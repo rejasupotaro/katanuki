@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Maven Quickstart</string>
+    <string name="app_name">Katanuki App</string>
     <string name="hello">Hello katanuki!</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
