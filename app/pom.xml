@@ -57,8 +57,15 @@
 			<version>2.2.3</version>
 			<scope>compile</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>com.github.kevinsawicki</groupId>
+			<artifactId>http-request</artifactId>
+			<version>4.1</version>
+		</dependency>
 	</dependencies>
-	<build>
+
+		<build>
 		<finalName>${project.artifactId}</finalName>
 		<pluginManagement>
 			<plugins>
