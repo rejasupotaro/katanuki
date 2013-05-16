@@ -6,8 +6,14 @@ import com.activeandroid.ActiveAndroid;
 
 public class KatanukiApplication extends Application {
 
-    @Override public void onCreate() {
+    @Override
+    public void onCreate() {
         super.onCreate();
         ActiveAndroid.initialize(this);
     }
+
+    @Override public void onTerminate() {
+        ActiveAndroid.dispose();
+    }
+
 }
