@@ -4,7 +4,6 @@ A template application that includes tons of great open source tools and framewo
 ![](https://raw.github.com/takiguchi0817/katanuki/master/katanuki.png)
 
 ## Acknowledgements
-- [android-maven-plugin](https://github.com/jayway/maven-android-plugin) for automating our build and producing release-ready APKs.
 - [RoboGuice](https://github.com/roboguice/roboguice) for dependency-injection.
 - [ActiveAndroid](https://github.com/pardom/ActiveAndroid) as the ORM.
 - [Otto](https://github.com/square/otto) as the event bus.
